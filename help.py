@@ -1,3 +1,5 @@
+#@FirstOMFGbot 
+#my first code
 from logging import basicConfig
 from os import W_OK
 from pyowm.utils.config import get_default_config
